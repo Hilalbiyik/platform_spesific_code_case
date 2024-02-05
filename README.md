@@ -16,3 +16,6 @@ Method Channel Avantajları
 - Flutter'da bulunmayan yerel işlevlere erişmenizi sağlarlar.
 - Flutter ve yerel kod arasında iletişim kurmanın bir yolunu sağlarlar, bu da veri paylaşmak veya olay göndermek gibi şeyler için yararlı olabilir.
 - Kullanımı nispeten kolaydır ve çeşitli şekillerde uygulanabilirler.
+
+
+### Ekran Görüntüleri
