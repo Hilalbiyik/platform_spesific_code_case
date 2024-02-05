@@ -19,3 +19,13 @@ Method Channel Avantajları
 
 
 ### Ekran Görüntüleri
+<table>
+  <tr>
+      <td>Ornek Kullanım</td>
+     <td>Ornek Kullanım</td>
+
+  <tr>
+     <td><img src="https://github.com/Hilalbiyik/platform_spesific_code_case/assets/77548014/86840cc9-deb1-4d09-94d7-ea9b98a6c72e.png"width="200" ></td>
+        <td><img src="https://github.com/Hilalbiyik/platform_spesific_code_case/assets/77548014/8ae4656b-0f6a-4740-9986-f2e76d34c8b5.png"width="200" ></td> 
+
+ </table>
